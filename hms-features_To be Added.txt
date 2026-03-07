@@ -1,0 +1,15 @@
+1. one doctor in one day for 2 diff reason apointment should book?
+2. doctor can add thier time table so that for that timings only patient can apoint them.
+3. how we can integrate to the AI? and integrate it.
+4. if doctor is accidentlay on the holiday then ? 
+5. if patient can not come to apointed slot then?
+6. 3D model of deciese showing to the patient.
+7. doctor varification model. - only varified real doctor can come into pplatform
+8. doctor rating and according to that suggestion model for patient.
+9. AI chat bot - AI assistance to understand and solve the problems, even deciese through given medical data, medicines, when it should be taken and how much - after lunch, before lunch, morning, noon, night? with water, mils etc..
+10. also should option for ayurveda treatment. in specialized formate
+11. also have option according to min charge facilities. in their area, location etc..
+12. based on deciese, price range (actually budget) and location - AI based doctor suggestion system - only from registerd ones or also the unregistered..?
+13. files and thier biomedical data can be shown within the user page.. directly access from the laboratories, hospitals etc..
+14. encryption to that data and sharing of the data.
+15. if this much of data is loading to the server, it should be very sharp secure.
