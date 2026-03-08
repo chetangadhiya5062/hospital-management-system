@@ -278,7 +278,7 @@ size
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/hms-project.git
+git clone https://github.com/chetangadhiya5062/hospital-management-system.git
 cd hms-project
 ```
 
