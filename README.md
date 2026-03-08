@@ -1,7 +1,3 @@
-Your project already has great content 👍 — it just needs **proper GitHub README formatting** (clean headings, badges style sections, code blocks, etc.). Below is a **well-structured, GitHub-ready README**. You can **copy-paste this directly into `README.md`**.
-
----
-
 # 🏥 Health Management System (HMS)
 
 A **Full-Stack Role-Based Health Management System** built using **React, Node.js, Express, and MongoDB**.
